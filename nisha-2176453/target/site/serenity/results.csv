@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Query a postcode and receive a 200 response","Verify response for Post code API","SUCCESS","2020-11-22T18:06:55.766Z[Europe/London]","0.0","5.76"
+"Confirm whether a visa is required to visit the UK","Verify whether a visa is required for Japan Nationality to visit the UK for Study","SUCCESS","2020-11-22T18:07:01.543Z[Europe/London]","0.0","24.5"
+"Confirm whether a visa is required to visit the UK","Verify whether a visa is required for Japan Nationality to visit the UK for Tourism","SUCCESS","2020-11-22T18:07:26.041Z[Europe/London]","0.0","8.93"
+"Confirm whether a visa is required to visit the UK","Verify whether a visa is required for Russia Nationality to visit the UK for Tourism","SUCCESS","2020-11-22T18:07:34.973Z[Europe/London]","0.0","9.95"
